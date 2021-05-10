@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b4f3d90a-93ce-448b-8499-25abed427f6b/resourceGroups/rg-nobhub/providers/Microsoft.Web/sites/nobhubcms",
+    "appService.deploySubpath": "."
+}
