@@ -1,9 +1,9 @@
 {
     "gzip": {
-      "enabled": false
+      "enabled": true
     },
     "responseTime": {
-      "enabled": false
+      "enabled": true
     },
     "poweredBy": {
       "enabled": true,
