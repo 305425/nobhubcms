@@ -1,0 +1,15 @@
+{
+    "host": "localhost",
+    "port": "${process.env.PORT || 1337}",
+    "production": true,
+    "proxy": {
+      "enabled": true,
+      "host":"https://nobhubcms.azurewebsites.net"
+    },
+    "cron": {
+      "enabled": false
+    },
+    "admin": {
+      "autoOpen": false
+    }
+  }
